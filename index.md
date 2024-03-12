@@ -13,9 +13,9 @@ Senior Python Developer
 
 ### Payne, Roberts and Davis
 
- Stewartbury, AA
+**Location:** Stewartbury, AA
 
-2021-04-08
+**Posted:** 2021-04-08
 
 [Learn](https://www.realpython.com)
 [Apply](https://realpython.github.io/fake-jobs/jobs/senior-python-developer-0.html)
@@ -27,9 +27,9 @@ Software Engineer (Python)
 
 ### Garcia PLC
 
- Ericberg, AE
+**Location:** Ericberg, AE
 
-2021-04-08
+**Posted:** 2021-04-08
 
 [Learn](https://www.realpython.com)
 [Apply](https://realpython.github.io/fake-jobs/jobs/software-engineer-python-10.html)
@@ -41,9 +41,9 @@ Python Programmer (Entry-Level)
 
 ### Moss, Duncan and Allen
 
- Port Sara, AE
+**Location:** Port Sara, AE [Want to learn more?]({% link pages/port_sara.md %})
 
-2021-04-08
+**Posted:** 2021-04-08
 
 [Learn](https://www.realpython.com)
 [Apply](https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-20.html)
@@ -55,9 +55,9 @@ Python Programmer (Entry-Level)
 
 ### Cooper and Sons
 
- West Victor, AE
+**Location:** West Victor, AE
 
-2021-04-08
+**Posted:** 2021-04-08
 
 [Learn](https://www.realpython.com)
 [Apply](https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-30.html)
@@ -69,9 +69,9 @@ Software Developer (Python)
 
 ### Adams-Brewer
 
- Brockburgh, AE
+**Location:** Brockburgh, AE
 
-2021-04-08
+**Posted:** 2021-04-08
 
 [Learn](https://www.realpython.com)
 [Apply](https://realpython.github.io/fake-jobs/jobs/software-developer-python-40.html)
@@ -83,9 +83,9 @@ Python Developer
 
 ### Rivera and Sons
 
- East Michaelfort, AA
+**Location:** East Michaelfort, AA
 
-2021-04-08
+**Posted:** 2021-04-08
 
 [Learn](https://www.realpython.com)
 [Apply](https://realpython.github.io/fake-jobs/jobs/python-developer-50.html)
@@ -97,23 +97,23 @@ Back-End Web Developer (Python, Django)
 
 ### Stewart-Alexander
 
- South Kimberly, AA
+**Location:** South Kimberly, AA [Want to know more?]({% link pages/South_Kimberley.md %})
 
-2021-04-08
+**Posted:** 2021-04-08
 
 [Learn](https://www.realpython.com)
 [Apply](https://realpython.github.io/fake-jobs/jobs/back-end-web-developer-python-django-60.html)
 
 ![Real Python Logo](https://files.realpython.com/media/real-python-logo-thumbnail.7f0db70c2ed2.jpg?__no_cf_polish=1)
 
-Back-End Web Developer (Python, Django)
+Back-End Web Developer (Python, Django) [Want to know more?]({% link pages/back_end.md %})
 ---------------------------------------
 
 ### Jackson, Ali and Mckee
 
- New Elizabethside, AA
+**Location:** New Elizabethside, AA
 
-2021-04-08
+**Posted:** 2021-04-08
 
 [Learn](https://www.realpython.com)
 [Apply](https://realpython.github.io/fake-jobs/jobs/back-end-web-developer-python-django-70.html)
@@ -125,9 +125,9 @@ Python Programmer (Entry-Level)
 
 ### Mathews Inc
 
- Robertborough, AP
+**Location:** Robertborough, AP
 
-2021-04-08
+**Posted:** 2021-04-08
 
 [Learn](https://www.realpython.com)
 [Apply](https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-80.html)
@@ -139,9 +139,9 @@ Software Developer (Python)
 
 ### Moreno-Rodriguez
 
- Martinezburgh, AE
+**Location:** Martinezburgh, AE
 
-2021-04-08
+**Posted:** 2021-04-08
 
 [Learn](https://www.realpython.com)
 [Apply](https://realpython.github.io/fake-jobs/jobs/software-developer-python-90.html)
