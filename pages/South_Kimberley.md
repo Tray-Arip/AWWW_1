@@ -3,7 +3,7 @@ layout: page
 ---
 
 South Kimberley - What can it be?
-===========================
+------------------------------
 
 **Kimberley** is the capital of the [Northern Cape](/wiki/Northern_Cape "Northern Cape") Province of [South Africa](/wiki/South_Africa "South Africa"). Amongst other things, it is famous for its [Big Hole](/w/index.php?title=Big_Hole&action=edit&redlink=1 "Big Hole (page does not exist)"), the world's largest *hand-dug* excavation that was created when thousands of people searched for diamonds at the end of the 19th and the beginning of the 20th centuries. By 14 August 1914, 22.7 billion kg of rock had been excavated, yielding 2722 kg of diamonds.
 
