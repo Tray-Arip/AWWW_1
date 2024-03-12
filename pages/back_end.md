@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 What Does a Back-End Developer Do? ([Coursera](https://www.coursera.org/articles/back-end-developer))
 ==================================

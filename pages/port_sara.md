@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 Port Sara - What can it be?
 ===========================

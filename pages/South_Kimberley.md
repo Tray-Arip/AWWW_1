@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 ---
+
 South Kimberley - What can it be?
 ===========================
 
