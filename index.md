@@ -41,7 +41,7 @@ Python Programmer (Entry-Level)
 
 ### Moss, Duncan and Allen
 
-**Location:** Port Sara, AE [Want to learn more?]({% link pages/port_sara.md %})
+**Location:** Port Sara, AE [Want to learn more?]({{ site.baseurl }}{% link pages/port_sara.md %})
 
 **Posted:** 2021-04-08
 
