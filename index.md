@@ -97,7 +97,7 @@ Back-End Web Developer (Python, Django)
 
 ### Stewart-Alexander
 
-**Location:** South Kimberly, AA [Want to know more?]({% link pages/South_Kimberley.md %})
+**Location:** South Kimberly, AA [Want to know more?]({{ site.baseurl }}{% link pages/South_Kimberley.md %})
 
 **Posted:** 2021-04-08
 
@@ -106,7 +106,7 @@ Back-End Web Developer (Python, Django)
 
 ![Real Python Logo](https://files.realpython.com/media/real-python-logo-thumbnail.7f0db70c2ed2.jpg?__no_cf_polish=1)
 
-Back-End Web Developer (Python, Django) [Want to know more?]({% link pages/back_end.md %})
+Back-End Web Developer (Python, Django) [Want to know more?]({{ site.baseurl }}{% link pages/back_end.md %})
 ---------------------------------------
 
 ### Jackson, Ali and Mckee
