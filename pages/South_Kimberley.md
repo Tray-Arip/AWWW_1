@@ -1,6 +1,6 @@
 ---
 layout: page
-hide_header: false
+hide_header: true
 ---
 
 South Kimberley - What can it be?
