@@ -1,5 +1,6 @@
 ---
 layout: page
+hide_header: true
 ---
 Port Sara - What can it be?
 ===========================
